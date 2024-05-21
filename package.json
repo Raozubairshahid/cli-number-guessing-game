@@ -1,6 +1,6 @@
 {
   "name": "rzs-02-cli-number-guessing-game",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This is a cli based numbers guessing game.",
   "main": "index.js",
   "type": "module",
